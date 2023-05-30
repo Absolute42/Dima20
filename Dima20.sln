@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dima20", "Dima20.csproj", "{0E7179B2-A9CC-4DD9-B933-559C314BB206}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "задание 1", "задание 1", "{AF98838B-71B7-4FFF-AF9F-8D90FD291617}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E7179B2-A9CC-4DD9-B933-559C314BB206} = {AF98838B-71B7-4FFF-AF9F-8D90FD291617}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1EFBC5E4-3539-4634-A204-D172D8D7617B}
